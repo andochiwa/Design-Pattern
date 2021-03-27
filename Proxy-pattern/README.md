@@ -2,7 +2,7 @@
 
 为其他对象提供一种代理以控制对这个对象的访问
 
-![img](https://github.com/andochiwa/Design-Pattern/blob/master/Proxy-Pattern/img.png)
+![img](https://github.com/andochiwa/Design-Pattern/blob/master/Proxy-pattern/img.png)
 
 
 
