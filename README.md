@@ -20,7 +20,7 @@
 
 ## 行为型模式
 
-* 策略模式（com.github.Strategy Pattern）
+* 策略模式（com.github1.Strategy Pattern）
 * 模板方法模式（Template Method Pattern）
 * 观察者模式（Observer Pattern）
 * 迭代器模式（Iterator Pattern）

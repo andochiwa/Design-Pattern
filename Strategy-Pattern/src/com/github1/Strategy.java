@@ -1,4 +1,4 @@
-package com.github;
+package com.github1;
 
 /**
  * 定义公共接口

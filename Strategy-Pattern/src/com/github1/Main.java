@@ -1,4 +1,4 @@
-package com.github;
+package com.github1;
 
 import java.util.Scanner;
 
