@@ -2,35 +2,35 @@
 
 ## 创建型模式
 
-* 工厂方法模式（Factory Method Pattern）
-* 抽象工厂模式（Abstract Factory Pattern）
-* 单例模式（Singleton Pattern）
-* 建造者模式（Builder Pattern）
-* 原型模式（Prototype Pattern）
+* [工厂方法模式（Factory Method Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Factory-Method-Pattern)
+* [抽象工厂模式（Abstract Factory Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Abstract-Factory-Pattern)
+* [单例模式（Singleton Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Singleton-Pattern)
+* [建造者模式（Builder Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Builder-Pattern)
+* [原型模式（Prototype Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Prototype-Pattern)
 
 ## 结构型模式
 
-* 适配器模式（Adapter Pattern）
-* 装饰器模式（Decorator Pattern）
-* 代理模式（Proxy pattern）
-* 外观模式（Facade Pattern）
-* 桥接模式（Bridge Pattern）
-* 组合模式（Composite Pattern）
-* 享元模式（Flyweight Pattern）
+* [适配器模式（Adapter Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Adapter-Pattern)
+* [装饰器模式（Decorator Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Decorator-Pattern)
+* [代理模式（Proxy pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Proxy-pattern)
+* [外观模式（Facade Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Facade-Pattern)
+* [桥接模式（Bridge Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Bridge-Pattern)
+* [组合模式（Composite Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Composite-Pattern)
+* [享元模式（Flyweight Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Flyweight-Pattern)
 
 ## 行为型模式
 
-* 策略模式（com.github1.Strategy Pattern）
-* 模板方法模式（Template Method Pattern）
-* 观察者模式（Observer Pattern）
-* 迭代器模式（Iterator Pattern）
-* 责任链模式（Chain Of Responsibility Pattern）
-* 命令模式（Command Pattern）
-* 备忘录模式（Memento Pattern）
-* 状态模式（State Pattern）
-* 访问者模式（Visitor Pattern）
-* 中介模式（Mediator Pattern）
-* 解释器模式（Interpreter Pattern）
+* [策略模式（Strategy Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Strategy-Pattern)
+* [模板方法模式（Template Method Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Template-Method-Pattern)
+* [观察者模式（Observer Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Observer-Pattern)
+* [迭代器模式（Iterator Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Iterator-Pattern)
+* [责任链模式（Chain Of Responsibility Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Chain-Of-Responsibility)
+* [命令模式（Command Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Command-Pattern)
+* [备忘录模式（Memento Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Memento-Pattern)
+* [状态模式（State Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/State-Pattern)
+* [访问者模式（Visitor Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Visitor-Pattern)
+* [中介模式（Mediator Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Mediator-Pattern)
+* [解释器模式（Interpreter Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Interpreter-Pattern)
 
 # 面向对象设计模式原则
 
