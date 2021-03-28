@@ -32,13 +32,6 @@
 * [中介模式（Mediator Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Mediator-Pattern)
 * [解释器模式（Interpreter Pattern）](https://github.com/andochiwa/Design-Pattern/tree/master/Interpreter-Pattern)
 
-# 面向对象设计模式原则
-
-* [单一职责原则（Single responsibility principle）](#1)
-* [开放封闭原则（The Open Closed Principle）](#2)
-* [依赖倒转原则（Dependence Inversion Principle）](#3)
-* [里氏代换原则（Liskov Substitution Principle LSP）](#4)
-
 
 
 # <span id="1"> 单一职责原则 </span>
@@ -69,3 +62,9 @@
 一个软件实体如果使用的是一个父类的话，那么一定适用于其子类，而且它察觉不出父类对象和子类对象的区别。
 
 也就是说，在软件里，把父类都替换成它的子类，程序的行为也没有变化，**子类必须能够替换它的父类**
+
+
+
+# 迪米特法则
+
+如果两个类之间不必彼此通信，那么这两个类就不应当发生直接的相互作用。如果其中一个类需要调用另一个类的某一个方法的话，可以通过第三者来转发这个调用。
